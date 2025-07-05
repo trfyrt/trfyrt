@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Jevon Benedict Kongdoh</h1>
 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -46,6 +45,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trfyrt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph"  />
+  <img src="https://media1.tenor.com/m/F7GNjURWISkAAAAC/fakta.gif" width="200" />
 </div>
 
 
