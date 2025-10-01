@@ -33,7 +33,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Django and Flutter Framework**
+- 🌱 I’m currently learning **3D Modeling & XR**
 
 - 👨‍💻 All of my code projects are available at [https://github.com/trfyrt](https://github.com/trfyrt)
 
