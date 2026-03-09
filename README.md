@@ -43,6 +43,29 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧙‍♂️ Talle – Bugis Spellcaster Game
+Mobile spellcasting game developed with Unity that aims to help preserve and promote the Bugis language through interactive gameplay. Players cast spells using Bugis words, turning language learning into a fun magical experience.
+
+🔗 Repository: https://github.com/HainzelK/HantuProject
+
+---
+
+### 🅿️ ParkirKi'
+A real-time parking management system built with a **Django backend** and **Flutter frontend**. The application monitors parking slot availability and enables efficient parking management through live updates and reporting.
+
+🔗 Repository: https://github.com/Caprizziest/Parkikir
+
+---
+
+### 🌱 Edge AI in Hydroponics
+An **ESP32-based Edge AI system** for localized hydroponic nutrient and pH balance management. The system processes sensor data locally to maintain optimal growing conditions while reducing dependency on centralized cloud processing.
+
+🔧 Tech: ESP32, IoT Sensors, Edge AI  
+
+---
+
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=trfyrt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph"  /> -->
   <img src="https://media1.tenor.com/m/F7GNjURWISkAAAAC/fakta.gif" width="200" />
