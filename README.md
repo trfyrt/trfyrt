@@ -50,25 +50,21 @@ Turning ideas into code and code into real-world solutions 💡. I’m especiall
 ## 🚀 Featured Projects
 
 <a href="https://github.com/Caprizziest/Parkikir"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/parkirki_logo.png" height=90px></img></a>
+<a href="https://github.com/HainzelK/HantuProject"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/talle_logo.png" height=90px></img></a>
 
-### 🧙‍♂️ Talle – Bugis Spellcaster Game
-Mobile spellcasting game developed with Unity that aims to help preserve and promote the Bugis language through interactive gameplay. Players cast spells using Bugis words, turning language learning into a fun magical experience.
+## Other Project
 
-🔗 Repository: https://github.com/HainzelK/HantuProject
-
-
-### 🌱 Edge AI in Hydroponics
+🌱 **Edge AI in Hydroponics:**
 An **ESP32-based Edge AI system** for localized hydroponic nutrient and pH balance management. The system processes sensor data locally to maintain optimal growing conditions while reducing dependency on centralized cloud processing.
 
-🔧 Tech: ESP32, IoT Sensors, Edge AI  
+🔧 Tech: ESP32, IoT Sensors, Edge AI
 
 ---
 
+## 📊 Github Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trfyrt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=trfyrt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="harusnya statsku disini"  />
   <img src="https://media1.tenor.com/m/F7GNjURWISkAAAAC/fakta.gif" width="200" />
   
 </div>
-
-
-
