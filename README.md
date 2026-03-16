@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aaron Jevon Benedict Kongdoh</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
 
 ###
@@ -31,33 +31,31 @@
   </a>
 </div>
 
+<br>
+<br>
+
+Turning ideas into code and code into real-world solutions 💡. I’m especially interested in AI, computer vision, and building systems that make everyday problems a little less annoying 👀.
 ###
 
-- 🌱 I’m currently learning **3D Modeling & XR**
-
-- 👨‍💻 All of my code projects are available at [https://github.com/trfyrt](https://github.com/trfyrt)
-
-- 📫 How to reach me **abenedict01@student.ciputra.ac.id**
-
+**More About Me 😶‍🌫️**
+- 🌱 I’m currently working on **Kiosk Self Order Service**
+- 👨‍💻 All of my code projects are available at [Github](https://github.com/trfyrt)
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aaronkongdoh/)
+- 🎨 I do edit for fun! Check out my edit [here](https://www.instagram.com/lartz.amv/)
+- 🎶 The rhythm behind my lines of code: [Megantropus Musicalitus](https://open.spotify.com/playlist/3ahUc6sqUzpsjL7vZCPUdO?si=9f5990df303b47f5)
 - ✒️ **"Our only limitations are those we set up in our own minds" -Napoleon Hill**
 
 ---
 
 ## 🚀 Featured Projects
 
+<a href="https://github.com/Caprizziest/Parkikir"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/parkirki_logo.png" height=90px></img></a>
+
 ### 🧙‍♂️ Talle – Bugis Spellcaster Game
 Mobile spellcasting game developed with Unity that aims to help preserve and promote the Bugis language through interactive gameplay. Players cast spells using Bugis words, turning language learning into a fun magical experience.
 
 🔗 Repository: https://github.com/HainzelK/HantuProject
 
----
-
-### 🅿️ ParkirKi'
-A real-time parking management system built with a **Django backend** and **Flutter frontend**. The application monitors parking slot availability and enables efficient parking management through live updates and reporting.
-
-🔗 Repository: https://github.com/Caprizziest/Parkikir
-
----
 
 ### 🌱 Edge AI in Hydroponics
 An **ESP32-based Edge AI system** for localized hydroponic nutrient and pH balance management. The system processes sensor data locally to maintain optimal growing conditions while reducing dependency on centralized cloud processing.
@@ -67,8 +65,9 @@ An **ESP32-based Edge AI system** for localized hydroponic nutrient and pH balan
 ---
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=trfyrt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=trfyrt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph"  />
   <img src="https://media1.tenor.com/m/F7GNjURWISkAAAAC/fakta.gif" width="200" />
+  
 </div>
 
 
