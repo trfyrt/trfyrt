@@ -51,6 +51,7 @@ Turning ideas into code and code into real-world solutions 💡. I’m especiall
 
 <a href="https://github.com/Caprizziest/Parkikir"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/parkirki_logo.png" height=90px></img></a>
 <a href="https://github.com/HainzelK/HantuProject"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/talle_logo.png" height=90px></img></a>
+<a href="https://github.com/trfyrt/SquawkTalk"><img src="https://raw.githubusercontent.com/trfyrt/SquawkTalk/master/Animations/Logo/Default/000.png" height=90px></img></a>
 
 ## Other Project
 
