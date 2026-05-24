@@ -50,9 +50,10 @@ Turning ideas into code and code into real-world solutions 💡. I’m especiall
 ## 🚀 Featured Projects
 
 <a href="https://github.com/Caprizziest/Parkikir"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/parkirki_logo.png" height=90px></img></a>
-<a href="https://github.com/trfyrt/PeduliPanti"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/pedulipanti_logo.png" height=90px></img></a>
 <a href="https://github.com/HainzelK/HantuProject"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/talle_logo.png" height=90px></img></a>
-<a href="https://github.com/trfyrt/SquawkTalk"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/squawktalk_logo.png" height=90px></img></img></a>
+<a href="https://github.com/trfyrt/SquawkTalk"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/squawktalk_logo.png" height=90px></img></a>
+<a href="https://github.com/trfyrt/PeduliPanti"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/pedulipanti_logo.png" height=100px></img></a>
+<a href="https://github.com/HainzelK/Siata"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/siata_logo.png" height=100px></img></a>
 
 ## Other Project
 
