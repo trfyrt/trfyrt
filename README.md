@@ -50,6 +50,7 @@ Turning ideas into code and code into real-world solutions 💡. I’m especiall
 ## 🚀 Featured Projects
 
 <a href="https://github.com/Caprizziest/Parkikir"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/parkirki_logo.png" height=90px></img></a>
+<a href="https://github.com/trfyrt/PeduliPanti"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/pedulipanti_logo.png" height=90px></img></a>
 <a href="https://github.com/HainzelK/HantuProject"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/talle_logo.png" height=90px></img></a>
 <a href="https://github.com/trfyrt/SquawkTalk"><img src="https://github.com/trfyrt/trfyrt/blob/main/Project/squawktalk_logo.png" height=90px></img></img></a>
 
@@ -59,6 +60,13 @@ Turning ideas into code and code into real-world solutions 💡. I’m especiall
 An **ESP32-based Edge AI system** for localized hydroponic nutrient and pH balance management. The system processes sensor data locally to maintain optimal growing conditions while reducing dependency on centralized cloud processing.
 
 🔧 Tech: ESP32, IoT Sensors, Edge AI
+
+---
+
+🎹 **Virtual Touchscreen Interface for Piano Tiles:**
+**A scalable, low-cost virtual touchscreen interface** that enables "Piano Tiles"-style gameplay on any flat surface using computer vision.
+
+🔧 Tech: Webcam, OpenCV, Projection Mapping
 
 ---
 
