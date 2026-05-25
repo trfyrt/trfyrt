@@ -72,9 +72,28 @@ An **ESP32-based Edge AI system** for localized hydroponic nutrient and pH balan
 ---
 
 ## 📊 Github Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trfyrt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="harusnya statsku disini"  />
-  <img src="https://media1.tenor.com/m/F7GNjURWISkAAAAC/fakta.gif" width="200" />
+<table>
+<tr>
+<td>
+
+<img src="https://github.com/trfyrt/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="harusnya stats disini">
+<img src="https://github.com/trfyrt/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="harusnya stats disini">
+
+</td>
+
+<td>
+
+<img src="https://media1.tenor.com/m/F7GNjURWISkAAAAC/fakta.gif" width="200">
+
+</td>
+
+<td>
   
+<img src="https://github.com/trfyrt/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="harusnya language used disini">
+<img src="https://github.com/trfyrt/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="harusnya language used disini">
+  
+</td>
+</tr>
+</table>
 </div>
